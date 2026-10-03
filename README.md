@@ -2,13 +2,16 @@
 
 > **Read-only archive of released versions of xypp/store-doorman.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/store-doorman) or the [upstream repository](https://github.com/zxy19/flarum-store-doorman).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xypp-store-doorman/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2.0`
+**4** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xypp-store-doorman/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v0.0.1` | 2024-07-17 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-store-doorman/tree/archive/v0.0.1) |
+| `v1.0.0` | 2024-07-18 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-store-doorman/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-07-20 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-store-doorman/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-07-20 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-store-doorman/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/xypp-store-doorman.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-store-doorman.json)
 
